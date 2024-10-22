@@ -13,6 +13,9 @@
       "eas": {
         "projectId": "d0d3067f-118a-43d6-9980-348787adaf1c"
       }
+    },
+    "android": {
+      "package": "com.pickleco.react_native_jobs"
     }
   }
 }
